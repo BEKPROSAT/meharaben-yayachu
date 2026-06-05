@@ -1,6 +1,7 @@
 #include "../include/timer.h"
 #include <chrono>
 #include <conio.h>
+#include <windows.h>
 #include <iostream>
 
 double waitForReaction(double timeoutSeconds) {
