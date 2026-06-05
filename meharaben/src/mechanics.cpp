@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <string>
+#include <chrono>
 #include <conio.h>
 #include <windows.h>
 
